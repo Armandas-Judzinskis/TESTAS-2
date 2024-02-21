@@ -1,0 +1,1 @@
+const vardas = "Armandas";
